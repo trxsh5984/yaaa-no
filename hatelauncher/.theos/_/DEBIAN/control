@@ -1,0 +1,10 @@
+Package: com.calamari.calamariios
+Name: Calamari
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Calamari iOS Branch
+Maintainer: machport
+Author: machport
+Section: Tweaks
+Version: 0.0.1-456+debug
+Installed-Size: 600
